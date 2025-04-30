@@ -1,5 +1,8 @@
-## Solid Electron
+# Solid Electron
+
 This is a bare bones Electron app that uses Solid JS as the front end.
+
+To create a new project: `npx degit paulreitz/solid-electron my-app`
 
 `src/main/ipc.ts` is the entry point for all IPC communication definitions on the electron side.
 
